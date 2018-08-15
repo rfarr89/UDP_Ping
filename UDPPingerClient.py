@@ -1,6 +1,6 @@
 # UDPPingerClient.py
-# Client program for UDP socket lab, COSC 4377 spring 2018, University of Houston
-# Student: Ryan Farrell (1488274)
+# Client program for UDP socket lab
+# Student: Ryan Farrell
 
 # import socket python module
 import socket
